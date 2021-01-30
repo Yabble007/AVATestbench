@@ -1,0 +1,3 @@
+npm run docker
+npm run web
+npm run gateway
